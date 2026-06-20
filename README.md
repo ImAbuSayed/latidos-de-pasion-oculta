@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-pasion-oculta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Latidos de pasión oculta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-pasion-oculta/) |
+| **Get License** | [Get a Licensing Quote for Latidos de pasión oculta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-pasion-oculta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1c2b29ab1c718b815d28b1d900929383713440ba955a480430b1e7b476a4f351` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

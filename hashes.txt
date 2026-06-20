@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos de pasión oculta
+
+This log tracks the cryptographic history and versioning for the song **Latidos de pasión oculta** (latidos-de-pasion-oculta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T04:47:32.350928 | `v1` | `1c2b29ab1c718b815d28b1d900929383713440ba955a480430b1e7b476a4f351` | `f8618d6bf2b459d1128371693e4c7d04b3076102757768bbebfe63b822e9ac19` | `2026-06-21_latidos-de-pasion-oculta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
